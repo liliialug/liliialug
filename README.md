@@ -14,5 +14,5 @@ Hi, I'm Liliia and I'm starting my way to QA.
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ## Contact
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=B4068E&color=050505)](https://www.instagram.com/lulu437l)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=B4068E&color=050505)](https://www.instagram.com/olivia.paws24)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=27A0D9&color=050505)](https://t.me/lulu_ll)
